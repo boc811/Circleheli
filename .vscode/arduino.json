@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "sketch": "Circleheli.ino",
+    "output": "C:/Arduino/Buildordner/Circleheli/build"
+}
