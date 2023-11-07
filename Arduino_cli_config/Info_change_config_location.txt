@@ -1,0 +1,1 @@
+arduino-cli config init --dest-dir C:/Arduino/Sketches/Circleheli/Arduino_cli_config --overwrite
