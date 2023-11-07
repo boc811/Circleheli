@@ -1,6 +1,6 @@
 /*
 Circleheli
-by Ben and Bjoern
+by Ben and Bjoern 2023
 */
 #include <IBusBM.h>
 #include <Servo.h>
